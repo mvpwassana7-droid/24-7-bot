@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "AmkiniSmp.aternos.me",
+    "port": 39017,
     "version": "1.20.1",
     "try-creative": false
   },
